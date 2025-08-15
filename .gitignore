@@ -1,0 +1,4 @@
+downloads/
+nsynth_train_mels_fixed64.npz
+nsynth_train_mels_fixed64_128.npz
+nsynth_train_mels_fixed64_64.npz
