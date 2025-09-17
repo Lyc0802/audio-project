@@ -4,7 +4,7 @@ This project uses Google’s **NSynth** musical instrument sound dataset, conver
 
 ---
 
-## Key Terminologies
+## Key Technology
 
 ### Mel spectrogram  
 A **Mel spectrogram** is a two-dimensional representation of audio (time × frequency). Its frequency axis is transformed using the **Mel scale**, which aligns with human perception of pitch: providing finer resolution at lower frequencies and coarser resolution at higher frequencies. Compared to raw waveforms, Mel spectrograms are more suitable for machine learning models to capture perceptual sound features.
